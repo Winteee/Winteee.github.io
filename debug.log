@@ -1,0 +1,781 @@
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Hexo version: \u001b[35m3.4.4\u001b[39m","time":"2018-01-15T10:06:36.561Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Working directory: \u001b[35m~/blog/\u001b[39m","time":"2018-01-15T10:06:36.567Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Config loaded: \u001b[35m~/blog/_config.yml\u001b[39m","time":"2018-01-15T10:06:36.657Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2018-01-15T10:06:36.669Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2018-01-15T10:06:36.672Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2018-01-15T10:06:36.673Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2018-01-15T10:06:36.676Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-sitemap\u001b[39m","time":"2018-01-15T10:06:36.677Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2018-01-15T10:06:36.678Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2018-01-15T10:06:36.681Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2018-01-15T10:06:36.687Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2018-01-15T10:06:36.689Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2018-01-15T10:06:36.778Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2018-01-15T10:06:36.788Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/button.js\u001b[39m","time":"2018-01-15T10:06:36.788Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge.js\u001b[39m","time":"2018-01-15T10:06:36.791Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2018-01-15T10:06:36.791Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/exturl.js\u001b[39m","time":"2018-01-15T10:06:36.792Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2018-01-15T10:06:36.792Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2018-01-15T10:06:36.793Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/label.js\u001b[39m","time":"2018-01-15T10:06:36.794Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/lazy-image.js\u001b[39m","time":"2018-01-15T10:06:36.794Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/note.js\u001b[39m","time":"2018-01-15T10:06:36.794Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/tabs.js\u001b[39m","time":"2018-01-15T10:06:36.795Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Loading database.","time":"2018-01-15T10:06:36.801Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":30,"msg":"Start processing","time":"2018-01-15T10:06:36.808Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:06:36.956Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:06:36.957Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/apple-touch-icon-next.png\u001b[39m","time":"2018-01-15T10:06:36.964Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/avatar.gif\u001b[39m","time":"2018-01-15T10:06:36.965Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/css/main.styl\u001b[39m","time":"2018-01-15T10:06:36.966Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/algolia_logo.svg\u001b[39m","time":"2018-01-15T10:06:36.966Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-nd.svg\u001b[39m","time":"2018-01-15T10:06:36.966Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc.svg\u001b[39m","time":"2018-01-15T10:06:36.967Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-sa.svg\u001b[39m","time":"2018-01-15T10:06:36.968Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nd.svg\u001b[39m","time":"2018-01-15T10:06:36.968Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/favicon-16x16-next.png\u001b[39m","time":"2018-01-15T10:06:36.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/favicon-32x32-next.png\u001b[39m","time":"2018-01-15T10:06:36.970Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/loading.gif\u001b[39m","time":"2018-01-15T10:06:36.970Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-sa.svg\u001b[39m","time":"2018-01-15T10:06:36.971Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by.svg\u001b[39m","time":"2018-01-15T10:06:36.972Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/placeholder.gif\u001b[39m","time":"2018-01-15T10:06:36.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/cc-zero.svg\u001b[39m","time":"2018-01-15T10:06:36.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/searchicon.png\u001b[39m","time":"2018-01-15T10:06:36.974Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/logo.svg\u001b[39m","time":"2018-01-15T10:06:36.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/quote-l.svg\u001b[39m","time":"2018-01-15T10:06:36.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/images/quote-r.svg\u001b[39m","time":"2018-01-15T10:06:36.976Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2018-01-15T10:06:37.039Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/de.yml\u001b[39m","time":"2018-01-15T10:06:37.039Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_layout.swig\u001b[39m","time":"2018-01-15T10:06:37.315Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/archive.swig\u001b[39m","time":"2018-01-15T10:06:37.315Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/category.swig\u001b[39m","time":"2018-01-15T10:06:37.315Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/page.swig\u001b[39m","time":"2018-01-15T10:06:37.315Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/post.swig\u001b[39m","time":"2018-01-15T10:06:37.316Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/index.swig\u001b[39m","time":"2018-01-15T10:06:37.316Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/schedule.swig\u001b[39m","time":"2018-01-15T10:06:37.316Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/tag.swig\u001b[39m","time":"2018-01-15T10:06:37.316Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/en.yml\u001b[39m","time":"2018-01-15T10:06:37.322Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2018-01-15T10:06:37.322Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/id.yml\u001b[39m","time":"2018-01-15T10:06:37.323Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/fr-FR.yml\u001b[39m","time":"2018-01-15T10:06:37.323Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/it.yml\u001b[39m","time":"2018-01-15T10:06:37.323Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/ja.yml\u001b[39m","time":"2018-01-15T10:06:37.323Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/ko.yml\u001b[39m","time":"2018-01-15T10:06:37.323Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/nl-NL.yml\u001b[39m","time":"2018-01-15T10:06:37.324Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/pt.yml\u001b[39m","time":"2018-01-15T10:06:37.324Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/pt-BR.yml\u001b[39m","time":"2018-01-15T10:06:37.324Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2018-01-15T10:06:37.324Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/vi.yml\u001b[39m","time":"2018-01-15T10:06:37.324Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-Hans.yml\u001b[39m","time":"2018-01-15T10:06:37.324Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-hk.yml\u001b[39m","time":"2018-01-15T10:06:37.324Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2018-01-15T10:06:37.325Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/algolia-search.js\u001b[39m","time":"2018-01-15T10:06:37.333Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/bootstrap.js\u001b[39m","time":"2018-01-15T10:06:37.334Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/affix.js\u001b[39m","time":"2018-01-15T10:06:37.334Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/exturl.js\u001b[39m","time":"2018-01-15T10:06:37.335Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/hook-duoshuo.js\u001b[39m","time":"2018-01-15T10:06:37.336Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/js.cookie.js\u001b[39m","time":"2018-01-15T10:06:37.337Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/scroll-cookie.js\u001b[39m","time":"2018-01-15T10:06:37.338Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/motion.js\u001b[39m","time":"2018-01-15T10:06:37.338Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/post-details.js\u001b[39m","time":"2018-01-15T10:06:37.339Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/scrollspy.js\u001b[39m","time":"2018-01-15T10:06:37.339Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/utils.js\u001b[39m","time":"2018-01-15T10:06:37.340Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/algolia-instant-search/instantsearch.min.css\u001b[39m","time":"2018-01-15T10:06:37.340Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/canvas-ribbon/canvas-ribbon.js\u001b[39m","time":"2018-01-15T10:06:37.341Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/canvas-nest/canvas-nest.min.js\u001b[39m","time":"2018-01-15T10:06:37.341Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/LICENSE\u001b[39m","time":"2018-01-15T10:06:37.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/bower.json\u001b[39m","time":"2018-01-15T10:06:37.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/README.md\u001b[39m","time":"2018-01-15T10:06:37.343Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/HELP-US-OUT.txt\u001b[39m","time":"2018-01-15T10:06:37.344Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/bower.json\u001b[39m","time":"2018-01-15T10:06:37.344Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/CONTRIBUTING.md\u001b[39m","time":"2018-01-15T10:06:37.345Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/README.md\u001b[39m","time":"2018-01-15T10:06:37.345Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/bower.json\u001b[39m","time":"2018-01-15T10:06:37.346Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/jquery.lazyload.js\u001b[39m","time":"2018-01-15T10:06:37.346Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/jquery.scrollstop.js\u001b[39m","time":"2018-01-15T10:06:37.347Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/needsharebutton/needsharebutton.css\u001b[39m","time":"2018-01-15T10:06:37.347Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/needsharebutton/needsharebutton.js\u001b[39m","time":"2018-01-15T10:06:37.348Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-barber-shop.min.css\u001b[39m","time":"2018-01-15T10:06:37.348Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/needsharebutton/font-embedded.css\u001b[39m","time":"2018-01-15T10:06:37.348Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-big-counter.min.css\u001b[39m","time":"2018-01-15T10:06:37.349Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-atom.min.css\u001b[39m","time":"2018-01-15T10:06:37.350Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-bounce.min.css\u001b[39m","time":"2018-01-15T10:06:37.350Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-circle.min.css\u001b[39m","time":"2018-01-15T10:06:37.351Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-radar.min.css\u001b[39m","time":"2018-01-15T10:06:37.351Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-fill-left.min.css\u001b[39m","time":"2018-01-15T10:06:37.351Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-corner-indicator.min.css\u001b[39m","time":"2018-01-15T10:06:37.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-flash.min.css\u001b[39m","time":"2018-01-15T10:06:37.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-simple.min.css\u001b[39m","time":"2018-01-15T10:06:37.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-mac-osx.min.css\u001b[39m","time":"2018-01-15T10:06:37.353Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-loading-bar.min.css\u001b[39m","time":"2018-01-15T10:06:37.354Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-minimal.min.css\u001b[39m","time":"2018-01-15T10:06:37.354Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace.min.js\u001b[39m","time":"2018-01-15T10:06:37.355Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/three/canvas_lines.min.js\u001b[39m","time":"2018-01-15T10:06:37.355Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/three/canvas_sphere.min.js\u001b[39m","time":"2018-01-15T10:06:37.356Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/three/three-waves.min.js\u001b[39m","time":"2018-01-15T10:06:37.356Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/bower.json\u001b[39m","time":"2018-01-15T10:06:37.356Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.min.js\u001b[39m","time":"2018-01-15T10:06:37.357Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.ui.js\u001b[39m","time":"2018-01-15T10:06:37.357Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.ui.min.js\u001b[39m","time":"2018-01-15T10:06:37.357Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery/index.js\u001b[39m","time":"2018-01-15T10:06:37.380Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_custom/header.swig\u001b[39m","time":"2018-01-15T10:06:37.492Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_custom/sidebar.swig\u001b[39m","time":"2018-01-15T10:06:37.492Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-collapse.swig\u001b[39m","time":"2018-01-15T10:06:37.492Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-copyright.swig\u001b[39m","time":"2018-01-15T10:06:37.492Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post.swig\u001b[39m","time":"2018-01-15T10:06:37.492Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/reward.swig\u001b[39m","time":"2018-01-15T10:06:37.492Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/sidebar.swig\u001b[39m","time":"2018-01-15T10:06:37.492Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/wechat-subscriber.swig\u001b[39m","time":"2018-01-15T10:06:37.492Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/footer.swig\u001b[39m","time":"2018-01-15T10:06:37.493Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/comments.swig\u001b[39m","time":"2018-01-15T10:06:37.493Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/page-header.swig\u001b[39m","time":"2018-01-15T10:06:37.493Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head.swig\u001b[39m","time":"2018-01-15T10:06:37.493Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/pagination.swig\u001b[39m","time":"2018-01-15T10:06:37.493Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/header.swig\u001b[39m","time":"2018-01-15T10:06:37.493Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search.swig\u001b[39m","time":"2018-01-15T10:06:37.493Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/boostrap.swig\u001b[39m","time":"2018-01-15T10:06:37.493Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/commons.swig\u001b[39m","time":"2018-01-15T10:06:37.494Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/vendors.swig\u001b[39m","time":"2018-01-15T10:06:37.494Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/duoshuo-hot-articles.swig\u001b[39m","time":"2018-01-15T10:06:37.494Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/exturl.swig\u001b[39m","time":"2018-01-15T10:06:37.494Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/mathjax.swig\u001b[39m","time":"2018-01-15T10:06:37.494Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/needsharebutton.swig\u001b[39m","time":"2018-01-15T10:06:37.494Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/rating.swig\u001b[39m","time":"2018-01-15T10:06:37.494Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/schedule.swig\u001b[39m","time":"2018-01-15T10:06:37.495Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/scroll-cookie.swig\u001b[39m","time":"2018-01-15T10:06:37.495Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/js/src/schemes/pisces.js\u001b[39m","time":"2018-01-15T10:06:37.499Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.css\u001b[39m","time":"2018-01-15T10:06:37.500Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.min.css\u001b[39m","time":"2018-01-15T10:06:37.500Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.min.js\u001b[39m","time":"2018-01-15T10:06:37.500Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/blank.gif\u001b[39m","time":"2018-01-15T10:06:37.501Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_loading.gif\u001b[39m","time":"2018-01-15T10:06:37.501Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_loading@2x.gif\u001b[39m","time":"2018-01-15T10:06:37.502Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_overlay.png\u001b[39m","time":"2018-01-15T10:06:37.503Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_sprite.png\u001b[39m","time":"2018-01-15T10:06:37.503Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_sprite@2x.png\u001b[39m","time":"2018-01-15T10:06:37.504Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.css\u001b[39m","time":"2018-01-15T10:06:37.504Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.js\u001b[39m","time":"2018-01-15T10:06:37.505Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.pack.js\u001b[39m","time":"2018-01-15T10:06:37.507Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/lib/fastclick.min.js\u001b[39m","time":"2018-01-15T10:06:37.507Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/lib/fastclick.js\u001b[39m","time":"2018-01-15T10:06:37.507Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.css\u001b[39m","time":"2018-01-15T10:06:37.508Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.css.map\u001b[39m","time":"2018-01-15T10:06:37.508Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.min.css\u001b[39m","time":"2018-01-15T10:06:37.509Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/ua-parser-js/dist/ua-parser.min.js\u001b[39m","time":"2018-01-15T10:06:37.509Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/ua-parser-js/dist/ua-parser.pack.js\u001b[39m","time":"2018-01-15T10:06:37.509Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/mist.swig\u001b[39m","time":"2018-01-15T10:06:37.517Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/muse.swig\u001b[39m","time":"2018-01-15T10:06:37.517Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.js\u001b[39m","time":"2018-01-15T10:06:37.518Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.woff\u001b[39m","time":"2018-01-15T10:06:37.518Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.woff2\u001b[39m","time":"2018-01-15T10:06:37.518Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.js\u001b[39m","time":"2018-01-15T10:06:37.518Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/custom-head.swig\u001b[39m","time":"2018-01-15T10:06:37.584Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/external-fonts.swig\u001b[39m","time":"2018-01-15T10:06:37.584Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/localsearch.swig\u001b[39m","time":"2018-01-15T10:06:37.584Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/swiftype.swig\u001b[39m","time":"2018-01-15T10:06:37.584Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/tinysou.swig\u001b[39m","time":"2018-01-15T10:06:37.584Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/add-this.swig\u001b[39m","time":"2018-01-15T10:06:37.584Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/baidushare.swig\u001b[39m","time":"2018-01-15T10:06:37.584Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/duoshuo_share.swig\u001b[39m","time":"2018-01-15T10:06:37.584Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/pages/post-details.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/jiathis.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/gemini.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/pisces.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/analytics-with-widget.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/application-insights.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/busuanzi-counter.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/baidu-analytics.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/cnzz-analytics.swig\u001b[39m","time":"2018-01-15T10:06:37.585Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/facebook-sdk.swig\u001b[39m","time":"2018-01-15T10:06:37.586Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/firestore.swig\u001b[39m","time":"2018-01-15T10:06:37.586Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/google-analytics.swig\u001b[39m","time":"2018-01-15T10:06:37.586Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/index.swig\u001b[39m","time":"2018-01-15T10:06:37.586Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/lean-analytics.swig\u001b[39m","time":"2018-01-15T10:06:37.586Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/tencent-analytics.swig\u001b[39m","time":"2018-01-15T10:06:37.586Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/tencent-mta.swig\u001b[39m","time":"2018-01-15T10:06:37.586Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/changyan.swig\u001b[39m","time":"2018-01-15T10:06:37.587Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/vkontakte-api.swig\u001b[39m","time":"2018-01-15T10:06:37.587Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/disqus.swig\u001b[39m","time":"2018-01-15T10:06:37.587Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/duoshuo.swig\u001b[39m","time":"2018-01-15T10:06:37.587Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/gitment.swig\u001b[39m","time":"2018-01-15T10:06:37.587Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/hypercomments.swig\u001b[39m","time":"2018-01-15T10:06:37.587Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/index.swig\u001b[39m","time":"2018-01-15T10:06:37.587Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/livere.swig\u001b[39m","time":"2018-01-15T10:06:37.587Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/valine.swig\u001b[39m","time":"2018-01-15T10:06:37.588Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/youyan.swig\u001b[39m","time":"2018-01-15T10:06:37.588Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/index.swig\u001b[39m","time":"2018-01-15T10:06:37.588Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/tinysou.swig\u001b[39m","time":"2018-01-15T10:06:37.588Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/seo/baidu-push.swig\u001b[39m","time":"2018-01-15T10:06:37.588Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/localsearch.swig\u001b[39m","time":"2018-01-15T10:06:37.588Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han-space.otf\u001b[39m","time":"2018-01-15T10:06:37.595Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han-space.woff\u001b[39m","time":"2018-01-15T10:06:37.596Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.otf\u001b[39m","time":"2018-01-15T10:06:37.596Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.woff\u001b[39m","time":"2018-01-15T10:06:37.596Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.woff2\u001b[39m","time":"2018-01-15T10:06:37.597Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/fancybox_buttons.png\u001b[39m","time":"2018-01-15T10:06:37.597Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-buttons.css\u001b[39m","time":"2018-01-15T10:06:37.598Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-buttons.js\u001b[39m","time":"2018-01-15T10:06:37.598Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css\u001b[39m","time":"2018-01-15T10:06:37.599Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-media.js\u001b[39m","time":"2018-01-15T10:06:37.599Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js\u001b[39m","time":"2018-01-15T10:06:37.600Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/FontAwesome.otf\u001b[39m","time":"2018-01-15T10:06:37.601Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.eot\u001b[39m","time":"2018-01-15T10:06:37.601Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.ttf\u001b[39m","time":"2018-01-15T10:06:37.601Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/algolia-search/assets.swig\u001b[39m","time":"2018-01-15T10:06:37.609Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/algolia-instant-search/instantsearch.min.js\u001b[39m","time":"2018-01-15T10:06:37.611Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/algolia-search/dom.swig\u001b[39m","time":"2018-01-15T10:06:37.612Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/three/three.min.js\u001b[39m","time":"2018-01-15T10:06:37.613Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.svg\u001b[39m","time":"2018-01-15T10:06:37.613Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:06:37.918Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:06:37.918Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:06:37.918Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:06:37.918Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:06:37.918Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:06:37.918Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:06:37.919Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:06:37.921Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:06:37.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:06:37.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:06:37.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:06:37.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:06:37.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:06:37.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:06:37.973Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/blog/\u001b[24m. Press Ctrl+C to stop.","time":"2018-01-15T10:06:37.974Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Database saved","time":"2018-01-15T10:06:37.991Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2018-01-15T10:06:46.783Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:14:40.116Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:14:40.117Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:14:40.231Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:14:40.231Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:14:40.231Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:14:40.231Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:14:40.232Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:14:40.232Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:14:40.232Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:14:40.237Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:14:40.254Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:14:40.254Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:14:40.254Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:14:40.254Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:14:40.254Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:14:40.254Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:14:40.254Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:14:40.412Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:14:40.412Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:14:40.527Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:14:40.527Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:14:40.527Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:14:40.527Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:14:40.527Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:14:40.528Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:14:40.528Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:14:40.531Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:14:40.535Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:14:40.536Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:14:40.536Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:14:40.536Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:14:40.536Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:14:40.536Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:14:40.536Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:15:20.117Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:15:20.118Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:15:20.251Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:15:20.252Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:15:20.252Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:15:20.252Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:15:20.252Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:15:20.252Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:15:20.252Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:15:20.255Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:15:20.262Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:15:20.262Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:15:20.262Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:15:20.263Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:15:20.263Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:15:20.263Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:15:20.263Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:15:20.269Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:15:20.269Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:15:20.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:15:20.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:15:20.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:15:20.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:15:20.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:15:20.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:15:20.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:15:20.387Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:15:20.392Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:15:20.392Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:15:20.392Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:15:20.392Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:15:20.392Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:15:20.392Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:15:20.392Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:16:01.105Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:16:01.107Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:16:01.220Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:16:01.220Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:16:01.220Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:16:01.220Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:16:01.220Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:16:01.220Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:16:01.220Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:16:01.223Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:16:01.226Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:16:01.226Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:16:01.226Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:16:01.226Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:16:01.226Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:16:01.226Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:16:01.227Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:16:02.002Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:16:02.002Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:16:02.119Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:16:02.119Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:16:02.120Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:16:02.120Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:16:02.120Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:16:02.120Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:16:02.120Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:16:02.121Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:16:02.125Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:16:02.125Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:16:02.125Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:16:02.125Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:16:02.125Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:16:02.125Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:16:02.125Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:18:33.277Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:18:33.279Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:18:33.415Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:18:33.415Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:18:33.416Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:18:33.416Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:18:33.416Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:18:33.416Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:18:33.416Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:18:33.419Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:18:33.426Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:18:33.426Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:18:33.426Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:18:33.426Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:18:33.426Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:18:33.426Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:18:33.426Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:18:33.431Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:18:33.431Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:18:33.541Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:18:33.541Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:18:33.542Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:18:33.542Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:18:33.542Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:18:33.542Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:18:33.542Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:18:33.545Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:18:33.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:18:33.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:18:33.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:18:33.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:18:33.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:18:33.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:18:33.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:19:52.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:19:52.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:19:53.068Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:19:53.068Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:19:53.068Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:19:53.068Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:19:53.068Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:19:53.068Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:19:53.068Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:19:53.070Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:19:53.080Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:19:53.080Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:19:53.080Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:19:53.080Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:19:53.081Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:19:53.081Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:19:53.081Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:19:59.941Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:19:59.941Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:20:00.054Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:20:00.054Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:20:00.054Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:20:00.055Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:20:00.055Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:20:00.055Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:20:00.055Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:20:00.057Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:00.062Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:20:00.062Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:00.062Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:20:00.062Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:00.063Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:20:00.063Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:00.064Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:20:14.362Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:20:14.362Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:20:14.476Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:20:14.477Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:20:14.477Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:20:14.477Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:20:14.477Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:20:14.477Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:20:14.477Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:20:14.478Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:14.487Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:20:14.487Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:14.487Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:20:14.487Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:14.487Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:20:14.487Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:14.488Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:20:27.849Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:20:27.850Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:20:27.963Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:20:27.963Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:20:27.963Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:20:27.964Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:20:27.964Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:20:27.964Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:20:27.964Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:20:27.966Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:27.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:20:27.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:27.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:20:27.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:27.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:20:27.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:20:27.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:21:55.423Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:21:55.424Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:21:55.547Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:21:55.547Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:21:55.547Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:21:55.547Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:21:55.547Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:21:55.547Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:21:55.547Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:21:55.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:21:55.553Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:21:55.553Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:21:55.553Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:21:55.553Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:21:55.553Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:21:55.553Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:21:55.553Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2018-01-15T10:22:30.830Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2018-01-15T10:22:38.927Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:23:16.175Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:23:16.176Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Theme config loaded.","time":"2018-01-15T10:23:16.270Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2018-01-15T10:23:16.270Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:23:16.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:23:16.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:23:16.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:23:16.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:23:16.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:23:16.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:23:16.385Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:23:16.387Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:16.391Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:23:16.391Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:16.391Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:23:16.391Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:16.391Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:23:16.391Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:16.391Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2018-01-15T10:23:50.685Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:23:50.823Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:23:50.824Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:23:50.824Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:23:50.824Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:23:50.824Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:23:50.824Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:23:50.824Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:23:50.827Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:50.832Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:23:50.832Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:50.832Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:23:50.832Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:50.832Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:23:50.832Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:50.832Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2018-01-15T10:23:50.838Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:23:50.960Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:23:50.960Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:23:50.960Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:23:50.960Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:23:50.960Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:23:50.960Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:23:50.960Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:23:50.963Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:50.968Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:23:50.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:50.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:23:50.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:50.970Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:23:50.970Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:23:50.970Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2018-01-15T10:24:05.734Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world的副本.md\u001b[39m","time":"2018-01-15T10:24:05.737Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:24:05.877Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:24:05.877Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:24:05.878Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:24:05.878Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:24:05.878Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:24:05.878Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:24:05.878Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:24:05.883Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:05.892Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:24:05.892Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:05.892Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:24:05.892Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:05.892Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:24:05.892Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:05.892Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world的副本.md\u001b[39m","time":"2018-01-15T10:24:33.096Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:24:33.099Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:24:33.221Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:24:33.222Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:24:33.222Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:24:33.222Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:24:33.222Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:24:33.222Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:24:33.222Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:24:33.223Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:33.229Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:24:33.230Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:33.230Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:24:33.230Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:33.230Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:24:33.230Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:33.230Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:24:34.897Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:24:35.015Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:24:35.015Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:24:35.015Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:24:35.015Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:24:35.015Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:24:35.015Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:24:35.016Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:24:35.017Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:35.021Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:24:35.021Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:35.021Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:24:35.021Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:35.021Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:24:35.021Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:35.021Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:24:35.216Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:24:35.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:24:35.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:24:35.343Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:24:35.343Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:24:35.343Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:24:35.343Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:24:35.343Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:24:35.347Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:35.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:24:35.353Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:35.353Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:24:35.353Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:35.353Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:24:35.353Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:35.353Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:24:54.213Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:24:54.341Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:24:54.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:24:54.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:24:54.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:24:54.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:24:54.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:24:54.342Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:24:54.344Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:54.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:24:54.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:54.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:24:54.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:54.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:24:54.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:24:54.352Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:25:07.970Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:25:08.096Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:25:08.096Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:25:08.096Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:25:08.096Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:25:08.096Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:25:08.097Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:25:08.097Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:25:08.098Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:25:08.102Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:25:08.102Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:25:08.103Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:25:08.103Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:25:08.103Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:25:08.103Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:25:08.103Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:27:18.417Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:27:18.543Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:27:18.544Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:27:18.544Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:27:18.544Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:27:18.544Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:27:18.544Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:27:18.544Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:27:18.545Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:27:18.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:27:18.548Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:27:18.549Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:27:18.549Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:27:18.549Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:27:18.549Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:27:18.549Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:30:17.350Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:30:17.473Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:30:17.473Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:30:17.473Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:30:17.473Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:30:17.473Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:30:17.473Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:30:17.473Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:30:17.475Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:30:17.480Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:30:17.480Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:30:17.480Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:30:17.480Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:30:17.480Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:30:17.480Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:30:17.480Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:31:16.567Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:31:16.684Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:31:16.684Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:31:16.684Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:31:16.684Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:31:16.684Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:31:16.684Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:31:16.684Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:31:16.687Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:16.689Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:31:16.690Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:16.690Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:31:16.690Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:16.690Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:31:16.690Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:16.690Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:31:42.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:31:43.071Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:31:43.072Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:31:43.072Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:31:43.072Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:31:43.072Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:31:43.072Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:31:43.073Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:31:43.074Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:43.077Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:31:43.077Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:43.078Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:31:43.078Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:43.078Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:31:43.078Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:43.078Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:31:51.118Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:31:51.235Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:31:51.235Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:31:51.235Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:31:51.235Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:31:51.236Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:31:51.236Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:31:51.236Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:31:51.237Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:51.240Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:31:51.240Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:51.240Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:31:51.240Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:51.240Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:31:51.240Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:31:51.241Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:32:06.504Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:32:06.625Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:32:06.625Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:32:06.625Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:32:06.625Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:32:06.625Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:32:06.625Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:32:06.625Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:32:06.627Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:06.630Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:32:06.630Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:06.630Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:32:06.630Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:06.630Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:32:06.630Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:06.630Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:32:12.850Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:32:12.968Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:32:12.968Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:32:12.968Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:32:12.968Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:32:12.968Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:32:12.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:32:12.969Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:32:12.970Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:12.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:32:12.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:12.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:32:12.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:12.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:32:12.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:12.975Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:32:23.826Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:32:23.946Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:32:23.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:32:23.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:32:23.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:32:23.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:32:23.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:32:23.947Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:32:23.948Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:23.950Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:32:23.950Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:23.951Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:32:23.951Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:23.951Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:32:23.951Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:23.951Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:32:52.980Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:32:53.103Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:32:53.103Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:32:53.103Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:32:53.105Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:32:53.105Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:32:53.105Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:32:53.105Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:32:53.107Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:53.112Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:32:53.112Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:53.112Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:32:53.112Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:53.112Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:32:53.112Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:32:53.112Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Processed: \u001b[35m_posts/用NEXT搭建blog.md\u001b[39m","time":"2018-01-15T10:33:07.638Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2018-01-15T10:33:07.756Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2018-01-15T10:33:07.756Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2018-01-15T10:33:07.756Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2018-01-15T10:33:07.756Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2018-01-15T10:33:07.756Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35msitemap\u001b[39m","time":"2018-01-15T10:33:07.756Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2018-01-15T10:33:07.756Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2018-01-15T10:33:07.757Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:33:07.759Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2018-01-15T10:33:07.760Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:33:07.760Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2018-01-15T10:33:07.760Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:33:07.760Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2018-01-15T10:33:07.760Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":40,"msg":"===============================================================","time":"2018-01-15T10:33:07.760Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":30,"msg":"Good bye","time":"2018-01-15T10:34:06.044Z","v":0}
+{"name":"hexo","hostname":"fuzhuowendeMacBook-Air.local","pid":31353,"level":20,"msg":"Database saved","time":"2018-01-15T10:34:06.060Z","v":0}
